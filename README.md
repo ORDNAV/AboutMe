@@ -45,7 +45,7 @@ that actually run in the field.
 ![C](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat&logo=c&logoColor=white)
 
 ### 🧪 Interests
-Physics-informed ML · quantum computing · statistical physics (KPZ, percolation, random fields) · IDS/network security · LiDAR & computer vision · edge computing.
+Neuromorphic Engineering · Physics-informed ML · quantum computing · statistical physics (KPZ, percolation, random fields) · IDS/network security · LiDAR & computer vision · edge computing.
 
 ---
 
